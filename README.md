@@ -29,3 +29,7 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+
+
+
+<h1>After install this code please make a .env file and inside .env file write this code <span style="color:blue">REACT_APP_BASE_URL=http://localhost:5000/api/v1</span></h1>
