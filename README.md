@@ -33,3 +33,4 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 
 
 <h1>After install this code please make a .env file and inside .env file write this code <span style="color:blue">REACT_APP_BASE_URL=http://localhost:5000/api/v1</span></h1>
+make sure you set your own backend port I have sent in .env localhost:5000 Please check you own localhost post and then make than set it here.
