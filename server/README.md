@@ -1,4 +1,4 @@
-# megabackentpractice
+# edutech backend code.
 <div style="color: blue; font-size: 20px;">
   
 
@@ -13,7 +13,7 @@ API_SECRET =own API_SECRET
 # nodemailer information
 MAIL_HOST=smtp.gmail.com
 MAIL_USER=own gmail_id
-MAIL_PASS=own gmail password get from gmail account I recommend please once see YouTube video for            configuration of smtp nodemailer in node.js.
+MAIL_PASS=own gmail password
 
 
 
